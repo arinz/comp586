@@ -1,0 +1,16 @@
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\backend.deps.json
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.json
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\backend.runtimeconfig.dev.json
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\backend.dll
+C:\Users\Arin\Desktop\Drink\backend\backend\bin\Debug\netcoreapp2.1\backend.pdb
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.csprojAssemblyReference.cache
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cache
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.RazorAssemblyInfo.cs
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfoInputs.cache
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.AssemblyInfo.cs
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.RazorTargetAssemblyInfo.cache
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.dll
+C:\Users\Arin\Desktop\Drink\backend\backend\obj\Debug\netcoreapp2.1\backend.pdb
